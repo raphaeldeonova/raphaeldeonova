@@ -5,12 +5,13 @@ I am currently a second year student studying Computer Science 💻 at the Unive
 
 ### My current to-do list 📑:
  - [x] Finish first-year of studies.
- - [ ] Finish second-year of studies.
+ - [x] Finish second-year of studies.
+ - [ ] Finish Third-year of studies.
  - [x] Get good grades (87.5% or 3.8 GPA) 🔥.
  - [x] Do personal projects.
  - [x] Join a startup.
  - [x] Get into the co-op program.
- - [ ] Find a co-op job.
+ - [x] Find a co-op job.
  - [ ] Graduate from UBC.
  - [x] Have fun and enjoy Vancouver 🌊 🌄.
  
