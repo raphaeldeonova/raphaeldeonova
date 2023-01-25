@@ -14,6 +14,8 @@ My work mostly revolves around front-end with React, with some experience in SFD
  - [x] Get into the co-op program.
  - [x] Find a co-op job.
  - [x] Tons of learning by doing co-op
+ - [x] Explore part time jobs
+ - [x] Get good at snowboarding
  - [ ] Graduate from UBC.
  - [x] Have fun and enjoy Vancouver 🌊 🌄.
  
