@@ -7,7 +7,7 @@ My work mostly revolves around front-end with React, with some experience in SFD
 ### My current to-do list 📑:
  - [x] Finish first-year of studies.
  - [x] Finish second-year of studies.
- - [ ] Finish Third-year of studies.
+ - [x] Finish Third-year of studies.
  - [x] Get good grades (87.5% or 3.8 GPA) 🔥.
  - [x] Do personal projects.
  - [x] Join a startup.
@@ -16,7 +16,7 @@ My work mostly revolves around front-end with React, with some experience in SFD
  - [x] Tons of learning by doing co-op
  - [x] Explore part time jobs
  - [x] Get good at snowboarding
- - [ ] Graduate from UBC.
+ - [ ] Graduate from UBC May 2024.
  - [x] Have fun and enjoy Vancouver 🌊 🌄.
  
  Aside from that, I also enjoy some basketball 🏀, PS4 games, and eating good food 🍣🍟 (who doesn't)!
