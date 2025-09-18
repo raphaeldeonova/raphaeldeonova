@@ -4,6 +4,7 @@ My name is Raphael Deonova, feel free to call me **Deo.**
 Graduated with a Bachelor in Science, Majoring in Computer Science 💻, with a Software Engineering option at the University of British Columbia.
 My work mostly revolves around front-end with React, with some experience in SFDX, Spring, and Java in general for academic purposes.
 Currently interested in learning Computer Networks, Security, and Backend Development.
+Part of Arista Networks.
 
 ### My current to-do list 📑:
  - [x] Finish first-year of studies.
@@ -18,7 +19,7 @@ Currently interested in learning Computer Networks, Security, and Backend Develo
  - [x] Get good at snowboarding
  - [x] Graduate from UBC May 2024.
  - [x] Have fun and enjoy Vancouver 🌊 🌄.
- - [ ] Find my first non-internship job.
+ - [x] Find my first non-internship job.
  - [ ] Buy a Car
  - [ ] Buy a House
  
